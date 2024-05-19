@@ -1,4 +1,4 @@
-Based on the provided information and the notebook, here is the README file:
+
 
 # COP28 Agreement Analysis
 
@@ -58,8 +58,5 @@ https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad
 You can view a live demonstration of the analysis [here](https://colab.research.google.com/drive/1vJQe1qSKcFFQd9t0J-Ox6thPKTPJpwsB#scrollTo=38pGjS7khsuI).
 
 ## Credits
-This project was developed by [Yinuo Zhou]. Contributions and Guidance from [Mike Zhu] are acknowledged. Special thanks to the United Nations High Commissioner for Refugees for the data used in this analysis.
+This project was developed by [Yinuo Zhou]. Contributions and Guidance from [Professor Mike Zhu] are acknowledged. Special thanks to the United Nations High Commissioner for Refugees for the data used in this analysis.
 
----
-
-Feel free to customize the README further based on specific details or additional content you wish to include.
